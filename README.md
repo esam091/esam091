@@ -1,7 +1,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/@samuel_edwin-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-edwin/)
 [![X](https://img.shields.io/badge/@__e__Sam-black?logo=x&logoColor=white)](https://x.com/_e_Sam)
-[![Website](https://img.shields.io/badge/samueledwin.com-Blog-black)](https://x.com/_e_Sam)
+[![Website](https://img.shields.io/badge/samueledwin.com-Blog-black)](https://samueledwin.com)
 
 ## Technologies that I use
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
