@@ -29,6 +29,7 @@
 ## Portfolio projects
 [![Gumroad React component and responsive site demo](https://github-readme-stats.vercel.app/api/pin/?username=esam091&repo=gumroad-nextjs&theme=dracula)](https://github.com/esam091/gumroad-nextjs)
 [![Full stack eCommerce app built with Next.js](https://github-readme-stats.vercel.app/api/pin/?username=esam091&repo=fullstack-ecommerce&theme=dracula)](https://github.com/esam091/fullstack-ecommerce)
+[![GraphQL backend](https://github-readme-stats.vercel.app/api/pin/?username=esam091&repo=graphql-backend&theme=dracula)](https://github.com/esam091/graphql-backend)
 [![MadNES - A NES emulator built with Rust](https://github-readme-stats.vercel.app/api/pin/?username=esam091&repo=mad-nes&theme=dracula)](https://github.com/esam091/mad-nes)
 [![Chip8 Emulator built with Rust](https://github-readme-stats.vercel.app/api/pin/?username=esam091&repo=chip-8-emulator&theme=dracula)](https://github.com/esam091/chip-8-emulator)
 
