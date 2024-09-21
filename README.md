@@ -27,7 +27,7 @@
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white&style=for-the-badge) 
 
 ## Portfolio projects
-[![Gumroad React component and responsive site demo](https://github-readme-stats.vercel.app/api/pin/?username=esam091&repo=gumroad-nextjs&theme=dracula)](https://github.com/esam091/gumroad-nextjs)
+[![Gumroad React component and responsive site demo](https://github-readme-stats.vercel.app/api/pin/?username=esam091&repo=react-design-system-with-responsive-site&theme=dracula)](https://github.com/esam091/react-design-system-with-responsive-site)
 [![Full stack eCommerce app built with Next.js](https://github-readme-stats.vercel.app/api/pin/?username=esam091&repo=fullstack-ecommerce&theme=dracula)](https://github.com/esam091/fullstack-ecommerce)
 [![GraphQL backend](https://github-readme-stats.vercel.app/api/pin/?username=esam091&repo=graphql-backend&theme=dracula)](https://github.com/esam091/graphql-backend)
 [![MadNES - A NES emulator built with Rust](https://github-readme-stats.vercel.app/api/pin/?username=esam091&repo=mad-nes&theme=dracula)](https://github.com/esam091/mad-nes)
