@@ -26,8 +26,21 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) 
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white&style=for-the-badge) 
 
+![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-232F3E?logo=amazonwebservices&logoColor=white&style=for-the-badge) 
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?logo=amazons3&logoColor=white&style=for-the-badge)
+![Amazon SQS](https://img.shields.io/badge/Amazon_SQS-FF4F8B?logo=amazonsqs&logoColor=white&style=for-the-badge)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?logo=awslambda&logoColor=white&style=for-the-badge)
+![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&style=for-the-badge)
+![Amazon Cognito](https://img.shields.io/badge/Amazon_Cognito-DD344C?logo=amazoncognito&logoColor=white&style=for-the-badge)
+![AWS Media Convert](https://img.shields.io/badge/AWS_Media_Convert-232F3E?logo=amazonwebservices&logoColor=white&style=for-the-badge) 
+![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?logo=awsamplify&logoColor=white&style=for-the-badge) 
+![Amazon CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?logo=amazoncloudwatch&logoColor=white&style=for-the-badge)
+![Elastic Beanstalk](https://img.shields.io/badge/Amazon_Elastic_Beanstalk-232F3E?logo=amazonwebservices&logoColor=white&style=for-the-badge)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white&style=for-the-badge) 
+
 ## Portfolio projects
 [![Gumroad React component and responsive site demo](https://github-readme-stats.vercel.app/api/pin/?username=esam091&repo=react-design-system-with-responsive-site&theme=dracula)](https://github.com/esam091/react-design-system-with-responsive-site)
+[![Full stack YouTube video processing pipeline with AWS](https://github-readme-stats.vercel.app/api/pin/?username=esam091&repo=youtube-aws&theme=dracula)](https://github.com/esam091/youtube-aws)
 [![Full stack eCommerce app built with Next.js](https://github-readme-stats.vercel.app/api/pin/?username=esam091&repo=fullstack-ecommerce&theme=dracula)](https://github.com/esam091/fullstack-ecommerce)
 [![GraphQL backend](https://github-readme-stats.vercel.app/api/pin/?username=esam091&repo=graphql-backend&theme=dracula)](https://github.com/esam091/graphql-backend)
 [![MadNES - A NES emulator built with Rust](https://github-readme-stats.vercel.app/api/pin/?username=esam091&repo=mad-nes&theme=dracula)](https://github.com/esam091/mad-nes)
